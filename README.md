@@ -16,11 +16,11 @@
 
 # Tools Used
 ->VS Code  
->Browser DevTools  
+->Browser DevTools  
 
 # Project Structure
 ->style.css  
-- home.html, about.html, contact.html  
+->home.html, about.html, contact.html  
 
 # Purpose
 ->This project demonstrates the basic structure and navigation of a multi-page website using HTML and CSS.
