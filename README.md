@@ -4,8 +4,8 @@
 
 # Pages
 ->Home  
->About  
-->Contact  
+->About  
+->Contact
 
 # Features
 ->Consistent navigation across all pages  
